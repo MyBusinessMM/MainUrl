@@ -1,0 +1,15 @@
+{
+
+  "status":true,
+  "appversion":"1.0",
+  "uriversion":"1.0",
+  "appversionDetails":"goodAppVersion",
+  "uriversionDetails":"goodUi",
+  "data":{
+    "PremierLeague":"",
+    "Laliga":"",
+    "SerieA":"",
+    "Ligue1":"",
+    "Germany":""
+  }
+}
